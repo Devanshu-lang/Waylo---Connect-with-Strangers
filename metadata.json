@@ -1,0 +1,7 @@
+{
+  "name": "WAYLO - New in Bengaluru",
+  "description": "Connect with fresh arrivals and open-minded locals for low-pressure adventures, coffee walks, and curated public meetups in Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
